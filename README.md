@@ -3,8 +3,8 @@
 ## how to reach me?email...tlentadm@gmail.com
 ## Phone number...+254772355339
 ## Aiming at becoming a pro in tech
-
-
+## Learning javascript
+## 
 <!--
 **joendeche28/joendeche28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
